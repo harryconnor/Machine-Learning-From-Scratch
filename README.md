@@ -5,7 +5,7 @@ This will be an ongoing project and I aim to cover the following:
 
 - Linear Regression ✅
 - Logistic Regression ✅
-- K-Nearest Neigbors
+- K-Nearest Neighbors
 - Principal Component Analysis (PCA)
 - Decision Trees
 - Naive Bayes
