@@ -5,9 +5,10 @@ This will be an ongoing project and I aim to cover the following:
 
 - Linear Regression ✅
 - Logistic Regression ✅
-- K-Nearest Neighbors
+- K-Nearest Neighbors (KNN) ✅
 - Principal Component Analysis (PCA)
 - Decision Trees
+- Random Forests
 - Naive Bayes
 - K-Means
 - Support Vector Machine (SVM)
